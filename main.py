@@ -1,7 +1,7 @@
 # main.py
 
 import time  # To measure how long the algorithm takes
-from backtracking import solve_knights_tour  # Import our solver
+from src.backtracking import solve_knights_tour  # Import our solver
 
 
 def print_board(solution):
